@@ -1,0 +1,118 @@
+Circuit: * C:\Users\abeel\OneDrive\Desktop\Laboratorio3\Simulaciones_LTSpice\Circuito 1\Laboratorio n° 3 - Circuito 1.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 9.80797e-06
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 14.7727%
+vernier = 0.015625
+Source Step = 14.6899%
+Source Step = 14.8082%
+Source Step = 14.9266%
+Source Step = 15.045%
+Source Step = 15.1634%
+vernier = 0.00585938
+Source Step = 15.3291%
+Source Step = 15.5066%
+Source Step = 15.6842%
+Source Step = 15.8617%
+Source Step = 16.0393%
+vernier = 0.00878906
+Source Step = 16.279%
+Source Step = 16.5453%
+Source Step = 16.8117%
+Source Step = 17.078%
+Source Step = 17.3443%
+vernier = 0.0131836
+Source Step = 17.6906%
+Source Step = 18.0901%
+Source Step = 18.4896%
+Source Step = 18.8891%
+Source Step = 19.2886%
+vernier = 0.0197754
+Source Step = 19.788%
+Source Step = 20.3872%
+Source Step = 20.9865%
+Source Step = 21.5857%
+Source Step = 22.185%
+vernier = 0.0296631
+Source Step = 22.9041%
+Source Step = 23.803%
+Source Step = 24.7019%
+Source Step = 25.6007%
+Source Step = 26.4996%
+vernier = 0.0444946
+Source Step = 27.5333%
+Source Step = 28.8817%
+Source Step = 30.23%
+Source Step = 31.5783%
+Source Step = 32.9266%
+vernier = 0.0667419
+Source Step = 34.4098%
+Source Step = 36.4323%
+Source Step = 38.4547%
+Source Step = 40.4772%
+Source Step = 42.4997%
+vernier = 0.100113
+Source Step = 44.6233%
+Source Step = 47.657%
+Source Step = 50.6908%
+Source Step = 53.7245%
+Source Step = 56.7582%
+Source Step = 59.7919%
+vernier = 0.150169
+Source Step = 64.3425%
+Source Step = 68.8931%
+Source Step = 73.4437%
+Source Step = 77.9943%
+Source Step = 82.5449%
+vernier = 0.225254
+Source Step = 89.1432%
+Source Step = 95.9691%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+
+Date: Wed Dec 20 14:51:21 2023
+Total elapsed time: 0.409 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 4173
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 124
+fillins = 126
+solver = Normal
+Avg thread counts: 2.1/0.0/2.0/1.2
+Matrix Compiler1:     881 opcodes
+Matrix Compiler2: 13.75 KB object code size  1.9/2.3/[0.9]
+

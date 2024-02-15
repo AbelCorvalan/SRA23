@@ -1,0 +1,22 @@
+Circuit: * C:\Users\abeel\AppData\Local\LTspice\Laboratorios de Síntesis de Redes Activas\Laboratorio n° 1\Circuito 1\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Dec 11 17:27:40 2023
+Total elapsed time: 0.067 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16033
+traniter = 16030
+tranpoints = 8016
+accept = 4818
+rejected = 3198
+matrix size = 10
+fillins = 5
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 664 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 906 bytes object code size  0.1/0.2/[0.1]
+

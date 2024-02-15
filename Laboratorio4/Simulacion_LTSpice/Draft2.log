@@ -1,0 +1,54 @@
+Circuit: * C:\Users\facun\Documents\LTspiceXVII\Draft2.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+Gmin = 7.69597e-06
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.26655e-06
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 8.68047e-07
+vernier = 1
+Gmin = 1.15494e-07
+Gmin = 1.24011e-08
+Gmin = 1.33156e-09
+Gmin = 1.42975e-10
+Gmin = 1.53518e-11
+Gmin = 1.64839e-12
+Gmin = 1.76994e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+
+Date: Sat Dec 16 11:54:28 2023
+Total elapsed time: 0.660 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17277
+traniter = 16402
+tranpoints = 5305
+accept = 3613
+rejected = 1692
+matrix size = 132
+fillins = 120
+solver = Normal
+Avg thread counts: 1.2/1.5/1.5/1.2
+Matrix Compiler1: 15.88 KB object code size  4.8/4.2/[1.8]
+Matrix Compiler2: 14.20 KB object code size  2.6/2.8/[1.1]
+

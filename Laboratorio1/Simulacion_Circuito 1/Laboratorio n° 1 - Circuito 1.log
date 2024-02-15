@@ -1,0 +1,65 @@
+Circuit: * C:\Users\abeel\AppData\Local\LTspice\Laboratorios de Síntesis de Redes Activas\Laboratorio n° 1\Circuito 1\Laboratorio n° 1 - Circuito 1.asc
+
+WARNING: Less than two connections to node v2.  This node is used by v2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 9.51076e-06
+vernier = 0.0833333
+Gmin = 7.93915e-06
+vernier = 0.111111
+vernier = 0.148148
+Gmin = 5.91618e-06
+vernier = 0.197531
+vernier = 0.263374
+Gmin = 3.72702e-06
+vernier = 0.351165
+Gmin = 1.77896e-06
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 5.44775e-07
+vernier = 0.832392
+vernier = 1
+Gmin = 9.07273e-08
+Gmin = 9.74176e-09
+Gmin = 1.04601e-09
+Gmin = 1.12315e-10
+Gmin = 1.20597e-11
+Gmin = 1.2949e-12
+Gmin = 1.39039e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u2:dummy)
+
+Date: Wed Dec 20 18:12:49 2023
+Total elapsed time: 0.394 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17866
+traniter = 16630
+tranpoints = 8016
+accept = 4818
+rejected = 3198
+matrix size = 126
+fillins = 98
+solver = Normal
+Avg thread counts: 2.0/2.1/1.1/1.0
+Matrix Compiler1: 14.28 KB object code size  2.7/1.2/[1.2]
+Matrix Compiler2: 13.41 KB object code size  1.2/1.7/[0.6]
+

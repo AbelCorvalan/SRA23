@@ -1,0 +1,43 @@
+Circuit: * C:\Users\abeel\AppData\Local\LTspice\Laboratorios de Síntesis de Redes Activas\Laboratorio n° 1\Circuito 4\Laboratorio n° 1 - Circuito 4.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:dummy)
+Ignoring empty pin current: Ix(u1:dummy)
+
+Date: Sat Dec  9 18:51:54 2023
+Total elapsed time: 0.082 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5091
+traniter = 4535
+tranpoints = 1464
+accept = 1313
+rejected = 151
+matrix size = 68
+fillins = 50
+solver = Normal
+Avg thread counts: 2.1/2.3/1.4/1.1
+Matrix Compiler1: 7.37 KB object code size  1.4/1.0/[0.8]
+Matrix Compiler2: 7.00 KB object code size  0.6/0.7/[0.4]
+
